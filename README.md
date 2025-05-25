@@ -122,3 +122,6 @@ To run this JavaFX application:
 
 This project successfully bridges theoretical knowledge with practical application, covering the complete development cycle of a desktop application. Despite the simple concept, the implementation encompasses crucial development aspects: from interface design to data storage and thread management. Working on this project provided valuable experience and serves as a foundation for creating more complex applications in the future.
 
+### 🤝 Members
+- @saM-s37
+- @Merry
