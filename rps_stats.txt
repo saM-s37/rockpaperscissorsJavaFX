@@ -1,0 +1,3 @@
+Wins: 4
+Losses: 5
+Draws: 4
