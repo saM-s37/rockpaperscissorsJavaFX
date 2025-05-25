@@ -85,14 +85,15 @@ The game features three distinct scenes:
 - Game Selection Scene: Interactive buttons for Rock, Paper, and Scissors choices
 - Results Scene: Displays game outcome with visual and textual feedback
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![Screenshot 2025-05-24 152726](https://github.com/user-attachments/assets/bf0e0c03-eb16-420c-b093-dc0a9d20a60b)
+![Screenshot 2025-05-24 152750](https://github.com/user-attachments/assets/331461ae-bdb1-4755-90d8-aea06f155578)
+![Screenshot 2025-05-24 153119](https://github.com/user-attachments/assets/4c119976-274c-46b8-bafa-b1a6dbe8056b)
+
 
 ### ✅Installation Procedure
 To run this JavaFX application:
 1. Requirements: JDK 11+ and an IDE (IntelliJ IDEA recommended).
-2. Git clone: [link]
+2. Git clone: https://github.com/saM-s37/rockpaperscissorsJavaFX
 3. Import: Open the project in your IDE (e.g., import pom. xm/).
 4. JavaFX: Ensure JavaX SDK is added as a library, and VM options are set (e.g., -module-path /path/to/laxatt sak/lib-add-modules javatx.contro/s.javaix.ccmL.javaixmedia). Verify the resources directory is marked as
    "Resources Root"
